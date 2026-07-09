@@ -1,16 +1,16 @@
-# Hi there, I'm Imani! 👋🏾
+# hi there, i'm imani! 👋🏾
 
-## About Me 🤓
+## about me 🤓
 
-I'm a passionate UX Designer and Data Analyst with experience in many programming languages and skills. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+i'm a passionate UX Designer and Data Analyst with experience in many programming languages and skills. i love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: How to make ceviche (loll!)
-- 👾 Working on: Getting my 10k steps a day
-- 🌍 Languages: Would love to brush up Spanish!
-- ✉️ How to reach me: ican04@icloud.com
-- ✈️ Fun fact: Recently travelled to Brazil and loved it!
+- 🌱 currently learning: how to make ceviche (loll!)
+- 👾 working on: getting my 10k steps a day
+- 🌍 languages: would love to brush up spanish!
+- ✉️ how to reach me: ican04@icloud.com
+- ✈️ fun fact: recently traveled to brazil and loved it!
 
-## My Skills 🧠
+## my skills 🧠
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -23,7 +23,7 @@ I'm a passionate UX Designer and Data Analyst with experience in many programmin
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
-## Featured Projects 💻
+## featured projects 💻
 
 ### [Project 1 Title](project_1_link)
 
@@ -37,8 +37,8 @@ I'm a passionate UX Designer and Data Analyst with experience in many programmin
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
-## Get in Touch ✉️
+## get in touch ✉️
 
-- **[Personal Website / Blog]** (your_website_or_blog_link)
-- **[LinkedIn]** www.linkedin.com/in/imanicandler
+- **[personal website]** (your_website_or_blog_link)
+- **[linkedin]** www.linkedin.com/in/imanicandler
   

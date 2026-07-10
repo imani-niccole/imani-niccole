@@ -25,13 +25,13 @@ i'm a passionate UX Designer and Data Analyst with experience in many programmin
 
 ## featured projects 💻
 
-### [Project 1 Title](project_1_link)
+### [NBA Performance Analysis: What Drives Team Rankings?](https://imaniniccole.my.canva.site/portfolio/cs-1)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Project 1 Screenshot](images/CaseStudy1.png)
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
+### [Brand Development: Hawk's Claw Hot Sauce](project_2_link)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 

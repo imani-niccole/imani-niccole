@@ -17,8 +17,8 @@ i'm a passionate UX Designer and Data Analyst with experience in many programmin
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
@@ -27,17 +27,17 @@ i'm a passionate UX Designer and Data Analyst with experience in many programmin
 
 ## featured projects 💻
 
-### [NBA Performance Analysis: What Drives Team Rankings?](https://imaniniccole.my.canva.site/portfolio/cs-1)
+### [nba performance analysis: what drives team rankings?](https://imaniniccole.my.canva.site/portfolio/cs-1)
 
-<img width="300" height="200" alt="Case Study 1" src="https://github.com/user-attachments/assets/04c75261-df22-4cf4-93a8-548074249412" />
+<img width="350" height="200" alt="Case Study 1" src="https://github.com/user-attachments/assets/04c75261-df22-4cf4-93a8-548074249412" />
 
-An automated Selenium and Python pipeline to scrape performance indicators for NBA teams and individual players. You can check out the repository [here](project_1_repository_link).
+an automated selenium and python pipeline to scrape performance indicators for nba teams and individual players. you can check out the repository [here](project_1_repository_link).
 
-### [Brand Development: Hawk's Claw Hot Sauce](project_2_link)
+### [brand development: hawk's claw hot sauce](https://imaniniccole.my.canva.site/portfolio/cs-2)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+<img width="350" height="200" alt="Screenshot 2026-07-09 at 11 02 22 PM" src="https://github.com/user-attachments/assets/92cde725-fdd1-4b5b-94f2-ae3bda1678cd" />
 
-An automated Selenium and Python pipeline to scrape performance indicators for NBA teams and individual players. You can check out the repository [here](project_2_repository_link).
+established comprehensive brand guidelines, business model, and wireframes for the brand’s digital platform.
 
 ## get in touch ✉️
 

@@ -27,18 +27,18 @@ i'm a passionate UX Designer and Data Analyst with experience in many programmin
 
 ### [NBA Performance Analysis: What Drives Team Rankings?](https://imaniniccole.my.canva.site/portfolio/cs-1)
 
-![Project 1 Screenshot](images/CaseStudy1.png)
+<img width="300" height="200" alt="Case Study 1" src="https://github.com/user-attachments/assets/04c75261-df22-4cf4-93a8-548074249412" />
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+An automated Selenium and Python pipeline to scrape performance indicators for NBA teams and individual players. You can check out the repository [here](project_1_repository_link).
 
 ### [Brand Development: Hawk's Claw Hot Sauce](project_2_link)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+An automated Selenium and Python pipeline to scrape performance indicators for NBA teams and individual players. You can check out the repository [here](project_2_repository_link).
 
 ## get in touch ✉️
 
-- **[personal website]** (your_website_or_blog_link)
+- **[personal website]** https://imaniniccole.my.canva.site/portfolio
 - **[linkedin]** www.linkedin.com/in/imanicandler
   

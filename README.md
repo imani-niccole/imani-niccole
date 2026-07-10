@@ -2,7 +2,7 @@
 
 ## about me 🤓
 
-i'm a passionate ux designer & data analyst with experience in many programming languages and skills. i love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+i'm a passionate ux designer & data analyst with experience in many programming languages and tools. i love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 currently learning: how to make ceviche (loll!)
 - 👾 working on: getting my 10k steps a day!
